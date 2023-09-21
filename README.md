@@ -1,5 +1,7 @@
 # Citas
 
+This project enables the management of medical appointments, including scheduling new appointments, viewing existing appointments, and removing previously scheduled appointments.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
 
 ## Development server
